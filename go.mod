@@ -1,3 +1,3 @@
-module github.com/bakugane/mymath
+module github.com/bakugane/mymath/v1.0.0
 
 go 1.19
