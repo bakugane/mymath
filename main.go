@@ -38,3 +38,7 @@ func Acosh(x float64) float64 {
 func Asin(x float64) float64 {
 	return math.Asin(x)
 }
+
+func Asasin(x float64) float64 {
+	return math.Asin(x)
+}
