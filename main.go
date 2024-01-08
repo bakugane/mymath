@@ -2,8 +2,6 @@ package mymath
 
 import "math"
 
-var Version string
-
 func Sqrt(x float64) float64 {
 	return math.Sqrt(x)
 }
