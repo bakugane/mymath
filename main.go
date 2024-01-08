@@ -2,7 +2,7 @@ package mymath
 
 import "math"
 
-var version string
+const Version = "v1.0.0"
 
 func Sqrt(x float64) float64 {
 	return math.Sqrt(x)
